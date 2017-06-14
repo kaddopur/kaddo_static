@@ -7,12 +7,12 @@
 [Countdown Timer][countdown]<br />simple project description
 
 
-[Linkedin]
-[@shenevol]
+[LinkedIn][LinkedIn]
+[@shenevol][twitter] 
 
 [watermark]: https://shenevol.github.io/waterMark/
 [videoplayer]: ./videoplayer
 [countdown]: ./timer
 
-[@shenevol]: https://twitter.com/shenevol
-[Linkedin]: asdf
+[twitter]: https://twitter.com/shenevol
+[LinkedIn]: https://www.linkedin.com/in/laurenfu/
